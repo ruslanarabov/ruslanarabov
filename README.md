@@ -26,11 +26,17 @@ Backend Developer focused on C# and .NET, currently learning Swift and iOS Devel
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman\&logoColor=white)
-![Azure Data Studio](https://img.shields.io/badge/Azure_Data_Studio-0078D4?logo=microsoftazure\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![JetBrains Rider](https://img.shields.io/badge/JetBrains_Rider-000000?logo=rider&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Azure Data Studio](https://img.shields.io/badge/Azure_Data_Studio-0078D4?logo=microsoftazure&logoColor=white)
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
 ### Currently Learning
 
